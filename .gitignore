@@ -1,0 +1,6 @@
+outputs_ca2/
+outputs_ca2_v2/
+.venv/
+__pycache__/
+build/
+*.spec

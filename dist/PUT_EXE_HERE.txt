@@ -1,0 +1,1 @@
+Put ZeroTrustPrototype.exe here after running build_exe.bat (see README, section 6).

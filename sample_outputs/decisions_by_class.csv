@@ -1,0 +1,3 @@
+label,Allow,Step-up MFA,Restrict,Block
+anomalous,24,29,94,53
+normal,3197,328,75,0
