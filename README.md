@@ -5,7 +5,7 @@
 **Group number:** 70
 **Members:** Aryan Choudhary (23070122052), Arsh Ansari (23070122047), Aliraza Shaikh (23070122023), Yash Patel (23070122235)
 
-**GitHub repository:** https://github.com/<your-username>/<repository-name>   <!-- replace with your repository link -->
+**GitHub repository:** https://github.com/aryanchoudhary1008/CS_CA3-Group---70-  
 
 > **Important – synthetic data only.** This project never connects to Snowflake or any real system.
 > All users, sessions, IP reputations and attacks are **simulated** by the code (the "Synthetic Cloud User Activity Dataset").
